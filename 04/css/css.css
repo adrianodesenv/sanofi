@@ -136,3 +136,44 @@ img {
   width: 1024px;
   height: 768px;
 }
+
+#menu_footer {
+  position: absolute;
+  bottom: 0;
+  width: 1000px;
+  height: 60px;
+  display: flex;
+  flex-direction: row;
+  margin-left: 20px;
+}
+
+#menu_footer a {
+  display: flex;
+  width: 130px;
+  height: 44px;
+}
+
+#menu_footer a:nth-child(1) {
+  width: 180px;
+}
+#menu_footer a:nth-child(2) {
+  width: 170px;
+}
+#menu_footer a:nth-child(3) {
+  width: 120px;
+}
+#menu_footer a:nth-child(4) {
+  width: 120px;
+}
+#menu_footer a:nth-child(5) {
+  width: 180px;
+}
+#menu_footer a:nth-child(6) {
+  width: 180px;
+}
+#menu_footer a:nth-child(7) {
+  width: 80px;
+}
+#menu_footer a:nth-child(8) {
+  width: 80px;
+}

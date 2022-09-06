@@ -117,7 +117,7 @@ button:focus {
   background-size: cover;
 }
 
-#bt_back_home{
+#bt_back_home {
   position: absolute;
   left: 20px;
   bottom: 15px;
@@ -125,16 +125,57 @@ button:focus {
   height: 80px;
 }
 
-#bt_link_1{
+#bt_link_1 {
   position: absolute;
   top: 310px;
   left: 240px;
   padding: 60px 230px;
 }
 
-#bt_link_2{
+#bt_link_2 {
   position: absolute;
   top: 450px;
   left: 240px;
   padding: 60px 230px;
+}
+
+#menu_footer {
+  position: absolute;
+  bottom: 0;
+  width: 1000px;
+  height: 60px;
+  display: flex;
+  flex-direction: row;
+  margin-left: 20px;
+}
+
+#menu_footer a {
+  display: flex;
+  width: 130px;
+  height: 44px;
+}
+
+#menu_footer a:nth-child(1) {
+  width: 180px;
+}
+#menu_footer a:nth-child(2) {
+  width: 170px;
+}
+#menu_footer a:nth-child(3) {
+  width: 120px;
+}
+#menu_footer a:nth-child(4) {
+  width: 120px;
+}
+#menu_footer a:nth-child(5) {
+  width: 180px;
+}
+#menu_footer a:nth-child(6) {
+  width: 180px;
+}
+#menu_footer a:nth-child(7) {
+  width: 80px;
+}
+#menu_footer a:nth-child(8) {
+  width: 80px;
 }
