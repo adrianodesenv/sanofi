@@ -127,16 +127,9 @@ button:focus {
 
 #bt_link_1 {
   position: absolute;
-  top: 310px;
-  left: 240px;
-  padding: 60px 230px;
-}
-
-#bt_link_2 {
-  position: absolute;
-  top: 450px;
-  left: 240px;
-  padding: 60px 230px;
+  top: 340px;
+  left: 260px;
+  padding: 60px 210px;
 }
 
 #menu_footer {

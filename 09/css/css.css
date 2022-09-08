@@ -119,10 +119,10 @@ button:focus {
 
 #wrapper {
   position: relative;
-  top: 150px;
+  top: 170px;
   left: 0;
   width: 1024px;
-  height: 500px;
+  height: 465px;
   overflow: auto;
   /* Prevent native touch events on Windows */
   -ms-touch-action: none;
